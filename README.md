@@ -14,7 +14,7 @@ A robust, console-based Student Management System built with Python and Object-O
 * **Environment:** `python-dotenv`
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/YourUsername/StudentManagementSystem.git`
+1. Clone the repository: `git clone https://github.com/jeevankurapati07-stack/StudentManagementSystem.git`
 2. Install dependencies: `pip install python-dotenv`
 3. Configure your `.env` file based on the provided placeholders.
 4. Run the application: `python main.py`
